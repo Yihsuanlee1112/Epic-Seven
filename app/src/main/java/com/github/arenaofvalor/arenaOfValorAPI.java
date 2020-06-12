@@ -1,1 +1,0 @@
-package com.github.arenaofvalor;import retrofit2.Call;import retrofit2.http.GET;public interface arenaOfValorAPI {    @GET("/ArenaOfValor.json")    Call<arenaOfValorResponse> getHeroResponse();}
