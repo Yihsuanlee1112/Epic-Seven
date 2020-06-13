@@ -1,0 +1,1 @@
+package com.github.arenaofvalor;public class Constants {    static String KEY_HERO_LIST = "jsonHeroList";}
