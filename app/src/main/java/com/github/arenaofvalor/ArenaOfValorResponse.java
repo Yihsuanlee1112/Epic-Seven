@@ -1,1 +1,0 @@
-package com.github.arenaofvalor;import java.util.List;public class ArenaOfValorResponse {    private List <Hero> results;    public ArenaOfValorResponse(List<Hero> results) {        this.results = results;    }    public List<Hero> getResults() {        return results;    }    public void setResults(List<Hero> results) {        this.results = results;    }}
