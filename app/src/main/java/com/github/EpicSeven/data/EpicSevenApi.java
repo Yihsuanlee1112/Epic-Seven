@@ -1,0 +1,1 @@
+package com.github.EpicSeven.data;import com.github.EpicSeven.presentation.model.EpicSevenResponse;import retrofit2.Call;import retrofit2.http.GET;public interface EpicSevenApi {    @GET("/hero")    Call<EpicSevenResponse> getHeroResponse();}

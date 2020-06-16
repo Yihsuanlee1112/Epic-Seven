@@ -1,1 +1,1 @@
-<resources>    <string name="app_name">arenaofvalor</string>    <string name="detail_text_description">detail_text</string></resources>
+<resources>    <string name="app_name">Epic Seven</string>    <string name="detail_text_description">detail_text</string>    <string name="deyail_text_description">Ecran Detail</string>    <string name="detail_txt_description">Ecan Detail</string>    <string name="name">Name</string>    <string name="id">ID</string>    <string name="role">Role</string>    <string name="zodiac">Zodiac</string></resources>
