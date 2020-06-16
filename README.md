@@ -1,7 +1,7 @@
 # Android Project - Epic Seven (Java)
 
 ## Author
-[Yi-Hsuan Lee]
+Yi-Hsuan Lee
 
 ## Introduction
 
@@ -9,7 +9,7 @@ Android Project - Epic Seven is a mobile application based on the mobile game Ep
 The purpose of this mobile application is to display a list of heroes and their characteristics such as their name, id, role, etc.
 This application can be used as a database where the most curious players can discover the history of their favorite characters.
 
-<img align="center" width="200" height="200" src="./pictures/logo_app.png"/>
+<img align="center" width="200" height="200" src=">
 
 Designed using the Rest API EpicSevenDB.
 - [GitHub](https://github.com/EpicSevenDB/api)
