@@ -76,7 +76,7 @@ In order to improve the mobile application we can integrate:
  - More details displayed in the second activity
  - Artifacts and equipment for heroes
  - Notification push in order to alert something new
- - Add hero icons 
+ - Add hero icons
 
 ---
 
