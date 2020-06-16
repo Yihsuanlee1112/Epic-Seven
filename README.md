@@ -65,6 +65,8 @@ several features have been implemented within this application.
 
 > The Hero Information activity gathers information concerning the hero chosen previously in the List of Heroes activity.
 
+<img align="center"  width="400" height="900" src="./pictures/hero_info.png"/>
+
 ---
 
 ### Improvements
