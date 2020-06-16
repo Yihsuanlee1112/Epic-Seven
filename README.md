@@ -59,7 +59,7 @@ several features have been implemented within this application.
 > When launching the application, the list of heroes is displayed.
 > You can then slide down to discover the different heroes and their roles.
 
-<img align="center" width="400" height="300" src="./pictures/hero_list.png"/>
+<img align="center"  width="400" height="900" src="./pictures/hero_list.png"/>
 
 ### Second Activity: Hero Information
 
