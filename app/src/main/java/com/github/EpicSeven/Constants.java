@@ -1,0 +1,1 @@
+package com.github.EpicSeven;public class Constants {    public static String KEY_HERO_LIST = "jsonHeroList";}
