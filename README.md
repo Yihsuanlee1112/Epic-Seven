@@ -10,7 +10,6 @@ The purpose of this mobile application is to display a list of heroes and their 
 This application can be used as a database where the most curious players can discover the history of their favorite characters.
 
 <img align="center" width="400" height="300" src="./pictures/epic-seven_app_icon.png"/>
-<img align="center" width="200" height="200" src="./pictures/logo_app.png"/>
 
 
 Designed using the Rest API EpicSevenDB.
