@@ -20,7 +20,7 @@ Designed using the Rest API EpicSevenDB.
 
 ## Features
 
-The project includes the use of several technical features and methods. So here is a list of what was used while coding the application.
+The project includes the use of several technical features and methods. Here is a list of what was used while coding the application.
 - [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
 - [Gitflow](https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Retrofit](https://square.github.io/retrofit/)
